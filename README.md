@@ -1,3 +1,5 @@
+Forked from [Rich Text Editor](https://github.com/sstur/react-rte)
+
 # React Rich Text Editor
 
 ![Build Status](https://travis-ci.org/sstur/react-rte.svg?branch=master)
