@@ -1,7 +1,7 @@
 {
-  "name": "react-rte",
-  "version": "0.16.3",
-  "description": "React Rich Text Editor",
+  "name": "dealroom-react-rte",
+  "version": "1.0.0",
+  "description": "React Rich Text Editor using react-rte",
   "main": "dist/react-rte.js",
   "files": [
     "lib",
@@ -64,7 +64,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sstur/react-rte.git"
+    "url": "git+https://github.com/dealroom/dealroom-react-rte.git"
   },
   "keywords": [
     "reactjs",
@@ -74,72 +74,10 @@
     "richtext",
     "editor"
   ],
-  "author": "sstur@me.com",
-  "contributors": [
-    {
-      "name": "Adam J. McIntyre",
-      "url": "https://github.com/amcintyre-cs"
-    },
-    {
-      "name": "André Schmidt",
-      "url": "https://github.com/andschdk"
-    },
-    {
-      "name": "Ben Herila",
-      "url": "https://github.com/bherila"
-    },
-    {
-      "name": "Harris Brakmic",
-      "url": "https://github.com/brakmic"
-    },
-    {
-      "name": "Forbes Lindesay",
-      "url": "https://github.com/ForbesLindesay"
-    },
-    {
-      "name": "Kristopher Craw",
-      "url": "https://github.com/KCraw"
-    },
-    {
-      "name": "Rory Hunter",
-      "url": "https://github.com/pugnascotia"
-    },
-    {
-      "name": "Ralph Schindler",
-      "url": "https://github.com/ralphschindler"
-    },
-    {
-      "name": "RaoHai",
-      "url": "https://github.com/RaoHai"
-    },
-    {
-      "name": "Jordan Kohl",
-      "url": "https://github.com/simpixelated"
-    },
-    {
-      "name": "Steffen Kolmer",
-      "url": "https://github.com/skolmer"
-    },
-    {
-      "name": "Simon Sturmer",
-      "url": "https://github.com/sstur"
-    },
-    {
-      "name": "Waldir Pimenta",
-      "url": "https://github.com/waldyrious"
-    },
-    {
-      "name": "Zach Silveira",
-      "url": "https://github.com/zackify"
-    },
-    {
-      "name": "Hyunyoung Cho",
-      "url": "https://github.com/ZeroCho"
-    }
-  ],
-  "license": "ISC",
+  "author": "Dealroom Team",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sstur/react-rte/issues"
+    "url": "https://github.com/dealroom/dealroom-react-rte/issues"
   },
-  "homepage": "https://github.com/sstur/react-rte#readme"
+  "homepage": "https://github.com/dealroom/dealroom-react-rte#readme"
 }
